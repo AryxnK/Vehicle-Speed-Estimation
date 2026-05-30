@@ -1,5 +1,7 @@
 input/
 output/
 
+yolov8n.pt
+
 __pycache__/
 *.pyc
